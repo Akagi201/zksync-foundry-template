@@ -4,3 +4,6 @@
 [submodule "lib/era-system-contracts"]
 	path = lib/era-system-contracts
 	url = https://github.com/matter-labs/era-system-contracts
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
